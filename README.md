@@ -1,4 +1,4 @@
-# C++-India-game
+# Cpp-India-game
 
 ## Opis projektu
 Gra planszowa. Plansza składa się z 36 pól (6x6). W grze bierze udział dwóch graczy.
