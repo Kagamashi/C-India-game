@@ -17,7 +17,7 @@ Wygrywa gracz który przemieści swój stos o wysokości 1 na przeciwległy koni
 Jeśli gracz nie posiada żadnego stosu o wysokości 1 - przegrywa. 
 
 ## Zadanie
-Napisz program pozwalający na rozgrywkę pomiędzy dwoma graczami (hot seat). 
+Napisano program pozwalający na rozgrywkę pomiędzy dwoma graczami (hot seat). 
 
 ## Źródła
 https://www.di.fc.ul.pt/~jpn/gv/india.htm
